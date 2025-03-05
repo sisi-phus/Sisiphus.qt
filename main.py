@@ -14,4 +14,4 @@ intents = discord.Intents.default()
 intents.message_content = True
 
 client = Client(intents=intents)  # running bot by parsing in the intents, and the functions are able to access intents
-client.run("MTMyNTUxNzM2NjU0MDYzNjIwNA.GlEpmp.Q-T8G7Xi9XYHmKcd-ckt417tTLkgID0Q9Icw0Q") # unique token
+client.run("") # unique token
